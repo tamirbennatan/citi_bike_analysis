@@ -1,3 +1,3 @@
 
 
-![](citi_bike_analysis/citi_bike_analysis.ipynb)
+[](citi_bike_analysis/citi_bike_analysis.ipynb)
